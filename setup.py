@@ -8,6 +8,6 @@ setup(
     license='GNU General Public License',
     author='Corne de Ruijt',
     author_email='c.a.m.de.ruijt@vu.nl',
-    install_requires=['deprecated', 'pandas==1.0.4', 'numpy==1.18.1', 'scikit-learn==0.22.1'],
+    install_requires=['deprecated', 'pandas==1.0.4', 'numpy==1.22.0', 'scikit-learn==0.22.1'],
     description='Simulator of SDBN click models'
 )
